@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EarnBTCTest</string>
+    <string name="main_url_to_load">freebitco.in</string>
+    <string name="toast_message_for_btc">We will Load you free BTC count for one hour</string>
+    <!-- Internet connection related -->
+    <string name="connected_with_wifi">Connected via Wifi!</string>
+    <string name="connected_with_mobile">Connected via Mobile Data!</string>
+    <string name="no_connection">Sorry! No internet connection found</string>
+    <string name="no_internet_connection">NO INTERNET CONNECTION</string>
+    <string name="no_internet_connection_desc">Check your internet connection and try again</string>
+    <string name="retry_btn">Retry</string>
+</resources>

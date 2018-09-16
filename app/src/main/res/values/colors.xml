@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4caf50</color>
+    <color name="colorPrimaryDark">#388e3c</color>
+    <color name="colorPrimaryLight">#FFCDD2</color>
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorSecondaryText">#757575</color>
+    <color name="colorIcons">#FFFFFF</color>
+    <color name="colorDivider">#BDBDBD</color>
+    <color name="lightOrange">#FDF2DF</color>
+    <color name="lightOrangeDark">#ebd6ab</color>
+    <color name="colorAccent">#ff5252</color>
+    <color name="transparentWhite">#CCCCCC</color>
+    <color name="whiteText">#FFFFFF</color>
+    <color name="profilePrimaryDark">#292B3D</color>
+    <color name="profileGrayLight">#FAFAFA</color>
+    <color name="profileStartBlue">#09C6DF</color>
+    <color name="profileEndBlue">#0BCCE6</color>
+    <color name="black">#000</color>
+    <color name="colorBlurBackgroundDark">#18121e</color>
+    <color name="colorBlurBackground">#5e5e5e</color>
+    <color name="greenChiliPrimary">#4caf50</color>
+    <color name="greenChiliPrimaryDark">#388e3c</color>
+    <color name="greenChiliAccent">#ff5252</color>
+</resources>
